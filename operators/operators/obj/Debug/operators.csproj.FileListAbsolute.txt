@@ -1,0 +1,7 @@
+C:\Users\Zane\source\repos\operators\operators\bin\Debug\operators.exe.config
+C:\Users\Zane\source\repos\operators\operators\bin\Debug\operators.exe
+C:\Users\Zane\source\repos\operators\operators\bin\Debug\operators.pdb
+C:\Users\Zane\source\repos\operators\operators\obj\Debug\operators.csprojAssemblyReference.cache
+C:\Users\Zane\source\repos\operators\operators\obj\Debug\operators.csproj.CoreCompileInputs.cache
+C:\Users\Zane\source\repos\operators\operators\obj\Debug\operators.exe
+C:\Users\Zane\source\repos\operators\operators\obj\Debug\operators.pdb
